@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
 	addTail(40);
 	addTail(50);
 	
-	print_list();
+	print_list(1);
 	
 	return 0;
 }
